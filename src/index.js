@@ -10,3 +10,6 @@ document.addEventListener('DOMContentLoaded', () => {
   const commentsURL = `https://randopic.herokuapp.com/comments/`
 
 })
+
+
+//in the year 4545...
